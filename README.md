@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shekar Banda</h1>
-<h3 align="center">Full Stack Developer | MERN | Java | SQL | Cloud Enthusiast ☁️</h3>
+<h3 align="center">Full Stack Developer | MERN | Data Structures & Algorithms</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Transforming+ideas+into+code...;Let's+build+something+cool+today!" />
@@ -11,9 +11,9 @@
 
 - 💡 Currently working on: **Rentify – The Ultimate Sharing Marketplace**
 - 🎯 Goals: Build scalable web apps & contribute to open-source
-- 🔭 I’m building creative full-stack projects using **MERN, REST APIs, AWS**
-- 💬 Ask me about: **React, Node, Express, MongoDB, Java, MySQL**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://yourportfolio.com)
+- 🔭 I’m building creative full-stack projects using **MERN, REST APIs**
+- 💬 Ask me about: **React, Node, Express, MongoDB**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shekar-banda-736815258) | [Portfolio](https://shekarbandaportfolio.netlify.app/)
 - 💻 Tech stack explorer & coffee lover ☕️
 
 ---
@@ -26,10 +26,10 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🎯 **Rentify** | MERN + AWS S3 | A full-stack rental marketplace to lend/rent items with secure uploads and chat |
+| 🎯 **Rentify** | MERN + Cloudinary | A full-stack rental marketplace to lend/rent items with secure uploads  |
 | 📺 **Netflix Clone** | React + TMDB API | Browse, filter and stream trailers with categories like Trending, Popular, etc. |
 | ✅ **Todo App** | React + LocalStorage | A minimal productivity tool with real-time updates |
-| 📱 **React Native App** | React Native (CLI) | A mobile app prototype without Expo |
+
 
 👉 [Check out all my projects here](https://github.com/Shekarbanda?tab=repositories)
 
@@ -47,8 +47,7 @@
 
 ### 🧠 Currently Learning
 
-- ⚙️ React Native and Cloud (AWS, Firebase)
-- 📦 Advanced Git & CI/CD with GitHub Actions
+- 📦 Data Structures & Algorithms
 - 🧠 System Design & Backend Architecture
 
 ---
@@ -56,9 +55,9 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shekar-banda-736815258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:bandashekar8688@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://shekarbandaportfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
 
 ---
@@ -68,16 +67,3 @@
 ⭐ **Don't forget to star your favorite projects!**  
 🎯 Let’s build something **awesome** together!
 
-```
-
----
-
-### 📌 How to Use This:
-1. Go to your GitHub profile and create a new repo **named exactly** `Shekarbanda`
-2. Inside that repo, create a file named `README.md`
-3. Paste the content above into it and commit
-4. Make sure your profile image and portfolio/LinkedIn links are customized
-
----
-
-Let me know if you'd like me to **generate GitHub Stats cards for you**, or create a **live portfolio site version** of this as well!
