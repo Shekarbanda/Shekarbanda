@@ -1,10 +1,3 @@
-Here’s a **unique and interactive GitHub profile README** that showcases your skills, projects, and personality in a way that grabs attention and sets you apart from other developers — especially perfect for a MERN stack/full-stack dev like you 👇
-
----
-
-### 🧠 **GitHub Profile README (Place in `README.md` of your profile repo: `Shekarbanda/Shekarbanda`)**
-
-```md
 <h1 align="center">Hi 👋, I'm Shekar Banda</h1>
 <h3 align="center">Full Stack Developer | MERN | Java | SQL | Cloud Enthusiast ☁️</h3>
 
@@ -20,23 +13,14 @@ Here’s a **unique and interactive GitHub profile README** that showcases your 
 - 🎯 Goals: Build scalable web apps & contribute to open-source
 - 🔭 I’m building creative full-stack projects using **MERN, REST APIs, AWS**
 - 💬 Ask me about: **React, Node, Express, MongoDB, Java, MySQL**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/your-link)** | **[Portfolio](https://yourportfolio.com)**  
-- 💻 Tech stack explorer & coffee lover ☕
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://yourportfolio.com)
+- 💻 Tech stack explorer & coffee lover ☕️
 
 ---
 
 ### 🛠️ My Tech Stack
 
-```ts
-Frontend      : React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
-Backend       : Node.js, Express.js, MongoDB, RESTful APIs  
-Dev Tools     : Git, GitHub, Postman, Vite, VS Code  
-Cloud & Others: AWS S3, Firebase, Netlify, Vercel  
-Programming   : Java (OOPs, DSA), Python, C  
-Database      : MongoDB, MySQL, Firebase  
-```
 
----
 
 ### 📂 Featured Projects
 
